@@ -753,7 +753,7 @@ const TeamPage = () => {
               {/* Photo container */}
               <div className="relative w-64 h-72 md:w-72 md:h-80 rounded-xl overflow-hidden border-2 border-orange-500/30">
                 <img
-                  src="/img/sportsSecretory.png"
+                  src="/img/amarja-dhepe.webp"
                   alt="Amarja Dhepe - Sports Secretary"
                   className="w-full h-full object-cover object-top filter saturate-[0.85] group-hover:saturate-100 group-hover:scale-105 transition-all duration-500"
                 />
@@ -839,7 +839,7 @@ const TeamPage = () => {
               {/* Photo container */}
               <div className="relative w-64 h-72 md:w-72 md:h-80 rounded-xl overflow-hidden border-2 border-purple-500/30">
                 <img
-                  src="https://res.cloudinary.com/dvmsho3pj/image/upload/v1770021817/zenith-2026/team/sports-club-president-vedant-dahat.jpg"
+                  src="/img/kawalpreet-singh.png"
                   alt="Kawalpreet Singh - Marathon Coordinator"
                   className="w-full h-full object-cover object-top filter saturate-[0.85] group-hover:saturate-100 group-hover:scale-105 transition-all duration-500"
                 />
