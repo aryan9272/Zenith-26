@@ -144,8 +144,8 @@ const MarathonTermsAndConditions = () => {
       phone: "9552110021",
     },
     {
-      name: "Kawalpreet Singh",
-      role: "Marathon Coordinator",
+      name: "Kanwalpreet Singh",
+      role: "Marathon Head",
       phone: "9561922066",
     },
     {

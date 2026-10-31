@@ -839,9 +839,9 @@ const TeamPage = () => {
               {/* Photo container */}
               <div className="relative w-64 h-72 md:w-72 md:h-80 rounded-xl overflow-hidden border-2 border-purple-500/30">
                 <img
-                  src="/img/kawalpreet-singh.png"
-                  alt="Kawalpreet Singh - Marathon Coordinator"
-                  className="w-full h-full object-cover object-top filter saturate-[0.85] group-hover:saturate-100 group-hover:scale-105 transition-all duration-500"
+                  src="/img/kanwalpreet-singh.png"
+                  alt="Kanwalpreet Singh - Marathon Head"
+                  className="w-full h-full object-cover object-center filter saturate-[0.85] group-hover:saturate-100 group-hover:scale-105 transition-all duration-500"
                 />
                 {/* Subtle vignette */}
                 <div className="absolute inset-0 shadow-[inset_0_0_50px_rgba(0,0,0,0.4)]" />
@@ -857,10 +857,10 @@ const TeamPage = () => {
               className="mt-8 text-center"
             >
               <h2 className="text-3xl md:text-4xl font-bold text-white mb-2">
-                Kawalpreet Singh
+                Kanwalpreet Singh
               </h2>
               <p className="text-xl md:text-2xl bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent font-semibold">
-                Marathon Coordinator
+                Marathon Head
               </p>
               <a 
                 href="tel:9561922066"
